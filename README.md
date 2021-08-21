@@ -18,7 +18,7 @@ In this repository I've implement a simple solution using the **Laravel Excel Pa
  
 Built like a Package to group all these parts together, and you can view the whole work inside this directory 
  
-> Please visit [Faker Uploaded Instance Files With Dynamic Content On the fly ] () to view only changes.
+> Please visit [Faker Uploaded Instance Files With Dynamic Content On the fly ] (https://github.com/theizekry/faker-uploaded-instances-file-for-imports-tests/tree/master/app/FakerUploadedInstanceGenerator) to view only changes.
 
 ### License 
 
