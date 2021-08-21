@@ -24,10 +24,10 @@ In this repository I've implement a simple solution using the **Laravel Excel Pa
  
 Built like a Package to group all these parts together, and you can view the whole work inside this directory 
  
-> Please visit [Faker Uploaded Instance Files With Dynamic Content On the fly ] (<a href="shorturl.at/bpPQS"> HERE </a>) to view only changes.
+> Please visit [Faker Uploaded Instance Files With Dynamic Content On the fly ] (<a href="https://github.com/theizekry/faker-uploaded-instances-file-for-imports-tests/tree/master/app/FakerUploadedInstanceGenerator"> HERE </a>) to view only changes.
 
 ### Tests 
-> You can take a look for feature tests with usage from here (<a href="shorturl.at/dmIO6"> HERE </a>).
+> You can take a look for feature tests with usage from here (<a href="https://github.com/theizekry/faker-uploaded-instances-file-for-imports-tests/blob/master/tests/Feature/UsersImportTest.php"> HERE </a>).
 > The test cases cover the idea with dynamic content for CSV, XLS and XLSX files types.
 
 
